@@ -14,6 +14,10 @@ Includes
 
 ## Setup
 
+
+### Step 0
+`git clone https://github.com/lukeaus/ubuntu-14.04-server-setup.git`
+
 #### Step 1 
 Make sure you have added your public key to the server.
 
